@@ -1,5 +1,5 @@
 ---
-title: Last Gift
+title: Décembre 2023  |  Last Gift
 publishDate: 2024-01-01 00:00:00
 img: /assets/LastGift.png
 img_alt: logo de l'App Last Gift, aux couleurs crème avec des icônes de Noël

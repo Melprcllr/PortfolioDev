@@ -1,10 +1,11 @@
 ---
-title: Restaurant, Le Baratie
+title: Octobre 2023 | Restaurant, Le Baratie
 publishDate: 2023-19-12
 img: /assets/Projet1.png 
 img_alt: logo du site vitrine du restaurant Le Baratie
 description: |
   Ce projet marque le point de départ de ma formation de Développeur Web. L'objectif était de concevoir le site vitrine d'un restaurant fictif à travers plusieurs pages web. 
+  
 tags:
   - HTML
   - CSS

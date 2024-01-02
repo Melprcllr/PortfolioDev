@@ -1,5 +1,5 @@
 ---
-title: Wild Escape!
+title: Novembre 2023 | Wild Escape!
 publishDate: 2023-12-19
 img: /assets/logo_escapegame.png
 img_alt: jeu Escape Game en "point and click" 
