@@ -42,10 +42,10 @@ Git, Excalidraw (esquisse de la maquette), Figma (wireframe), VSCode, GitHub, Ph
 - J'ai pu illustrer ma capacité à concevoir des interfaces utilisateur adaptatives pour améliorer l'expérience sur différentes plateformes.
 
 <br>
-<strong>#<u>Les compétences développées et approfondies</u></strong>
+<strong>#<u>Les compétences développées et approfondies</u></strong><br>
 
-- Utilisation des technologies de base du développement web : HTML et CSS.
-- Utilisation d'outils de conception pour la création de designs visuels.
+- Utilisation des technologies de base du développement web : HTML et CSS.<br>
+- Utilisation d'outils de conception pour la création de designs visuels.<br>
 - Expertise du développement collaboratif, gestion de projet collaboratif (avec Git et GitHub).
 <br>
 

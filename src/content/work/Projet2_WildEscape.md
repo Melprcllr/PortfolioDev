@@ -16,8 +16,8 @@ tags:
 
 - <strong>Conduite de projet en suivant le cadre de travail agile SCRUM</strong><br>
         - Découpage du Backlog, répartition et priorisation des tâches,<br>
-        - Etablissement d'un cycle de développement réparti en sprints d'une semaine, avec des rôles tournants entre les membres de l'équipe : Producto Owner et Scrum Master,<br>
-        - Structuration du processus de développement du projet avec des srint planning, des daily, des reviews des retrospectives...<br><br>
+        - Etablissement d'un cycle de développement réparti en sprints d'une semaine, avec des rôles tournants entre les membres de l'équipe : Product Owner et Scrum Master,<br>
+        - Structuration du processus de développement du projet avec des sprints planning, des daily, des reviews des retrospectives...<br><br>
 - <strong>Instauration d'un workflow Git organisé et structuré</strong><br>
           - Ecriture d'User stories détaillées,<br>
           - Organisation sous forme de branches dédiées par fonctionnalité (feature), <br>
