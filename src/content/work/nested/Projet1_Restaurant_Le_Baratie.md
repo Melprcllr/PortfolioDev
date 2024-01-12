@@ -13,7 +13,7 @@ tags:
 ---
 
 
-<strong>#<u>Les objectifs</u></strong>
+<<ustrong>#>Les objectifs</u></strong>
 
 - <strong>Création de plusieurs pages web</strong> (une page d'accueil, un page de présentation du restaurant, "la carte", une page contact et un plan d'accès),
 - <strong>Conception d'un wireframe</strong> (définir une charte graphique),
