@@ -27,36 +27,34 @@ const projects = (await getCollection('work'))
 
 <BaseLayout>
 	<div class="stack gap-20 lg:gap-48">
-		<div class="wrapper stack gap-8 lg:gap-20">
-			<header class="hero">
+		<div class="hero">
+			<div class="wrapper stack gap-8 lg:gap-20">
 				<Hero
 					title="Bienvenue, sur mon Portfolio,"
 					tagline="Développeuse Web Junior Full Stack"
-					align="start"
+					align="start">
 
 					<p>📍 Bordeaux (33)</p>
-				<p>🌐 En recherche d'une opportunité d'alternance en tant que Concepteur Développeur d'Applications (Java + Angular ou Php/Symfony), (niv 6, Bac+4) en 15 mois, début 2024.
-				</p>
+					<p>🌐 En recherche d'une opportunité d'alternance en tant que Concepteur Développeur d'Applications (niv 6, Bac+4) en 15 mois.
+					Me contacter pour plus d'infos 📧
+					</p>
+
 					<div class="roles">
 						<Pill><Icon icon="code" size="1.33em" />Php/Symfony</Pill>
 						<Pill><Icon icon="pencil-line" size="1.33em" /> HTML</Pill>
 						<Pill><Icon icon="css-logo" size="1.33em" /> CSS</Pill>
-						<Pill><Icon icon="pencil-line" size="1.33em" />Sass</Pill>
-						<Pill><Icon icon="pencil-line" size="1.33em" /> Bootstrap</Pill>
 						<Pill><Icon icon="sql" size="1.33em" />SQL</Pill>
 						<Pill><Icon icon="code" size="1.33em" /> JavaScript</Pill>
 					</div>
-			</header>
-				<img
-					alt="Mélissa Parceiller"
-					width="300"
-					height="600"
-					src="/assets/portrait.jpg"
-				/>
+			</div>
+						<img class="index-img"
+						alt="Photo de Mélissa Parceiller"
+						width="300"
+						height="348"
+						src="/assets/portrait.jpg"/>
+			</div>
 
-
-			<Skills />
-		</div>
+				</Hero>
 
 		<main class="wrapper stack gap-20 lg:gap-48">
 			<section class="section with-background with-cta">
@@ -107,11 +105,11 @@ const projects = (await getCollection('work'))
 		align-items: flex-start;
 	}
 
-	.hero img {
+	.index-img {
 		aspect-ratio: 3 / 4;
 		border-radius: 4.5rem;
 		object-fit: cover;
-		width: 40%;
+
 	}
 
 	.hero .section-header {
@@ -126,8 +124,12 @@ const projects = (await getCollection('work'))
 		.hero img {
 			display: block;
 			vertical-align: central;
+			width: 30%;
+			margin-bottom: 8rem;
+			margin-right: 2rem;
 		}
 	}
+
 	/* ====================================================== */
 
 	.section {
@@ -238,13 +240,16 @@ const projects = (await getCollection('work'))
 		}
 
 		.hero img {
-			width: 100%;
-			border-radius: 0;
+			width: 40%;
+			border-radius: 100rem;
+			margin-left : 12rem;
+			margin-bottom: 5rem;;
 		}
 
+
 		.roles {
-			flex-direction: column;
-			align-items: flex-start;
+			flex-wrap: wrap;
+			align-items: center;
 			font-size: 0.8em;
 		}
 	}
