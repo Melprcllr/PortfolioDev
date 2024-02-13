@@ -16,7 +16,7 @@ import CallToAction from "../components/CallToAction.astro";
 				tagline="Venez découvrir mon parcours où chaque expérience et formation ont contribué à forger ma nouvelle identité de Développeuse Web. Prête à relever de nouveaux défis, je mets en avant mes compétences et ma détermination dans la création d'expériences numériques."
 				align="center"
 			>
-				<img
+				<img class="about-img"
 					width="500"
 					height="100"
 					src="/assets/at-work.jpg"
@@ -55,12 +55,12 @@ import CallToAction from "../components/CallToAction.astro";
 				<h2 class="section-title">Formations</h2>
 				<div class="content">
 					<p>
-						<br><strong>Concepteuse Développeuse d'Applications (Java, Angular) </strong><em>-> à venir</em>
-						<br>Titre professionnel de niv 6, Bac+4
-						<br>Wild Code School, Bordeaux (33300)
-						<br>2024-2025 (15 mois) <strong>en alternance</strong>
-						<br><em><strong>⚠️ Je recherche activement une entreprise en contrat d'apprentissage
-					afin d'effectuer cette formation. N'hésitez pas à me contacter.</em></strong>
+					<!--	<br><strong>Concepteuse Développeuse d'Applications (Java, Angular) </strong><em>-> à venir</em>-->
+					<!--	<br>Titre professionnel de niv 6, Bac+4-->
+					<!--	<br>Wild Code School, Bordeaux (33300)-->
+					<!--	<br>2024-2025 (15 mois) <strong>en alternance</strong>-->
+					<!--	<br><em><strong>⚠️ Je recherche activement une entreprise en contrat d'apprentissage-->
+					<!--afin d'effectuer cette formation. N'hésitez pas à me contacter.</em></strong>-->
 						<br>
 						<br><strong>Développeuse web et web mobile (PHP/Symfony)</strong>
 						<br>Titre professionnel de niv 5, Bac+3
@@ -102,7 +102,7 @@ import CallToAction from "../components/CallToAction.astro";
 					<h5>Frameworks</h5>
 					<p>Symfony, Bootstrap, Tailwind CSS, Astro.build </p><br>
 					<h5>Outils</h5>
-					<p>Git/GitHub, VSCode, PhpStorm, MySQL, Figma, Canva, Photoshop, Trello, gestionnaire de dépendances/bibliothèques (Composer, Yarn) </p>
+					<p>Git/GitHub, VSCode, PhpStorm, MySQL, Figma, Canva, Trello, Jira, Photoshop, Illustator  </p>
 				</div>
 			</section>
 					<div style="
@@ -128,6 +128,7 @@ import CallToAction from "../components/CallToAction.astro";
 
 	img {
 		margin-top: 1.5rem;
+		margin-left: 7rem;
 		border-radius: 1.5rem;
 		box-shadow: var(--shadow-md);
 	}
@@ -175,4 +176,13 @@ import CallToAction from "../components/CallToAction.astro";
 			font-size: var(--text-lg);
 		}
 	}
-</style>
+	@media (max-width: 767px) {
+
+		.about-img {
+			margin-left: 3rem;
+		}
+
+	}
+
+
+	</style>
