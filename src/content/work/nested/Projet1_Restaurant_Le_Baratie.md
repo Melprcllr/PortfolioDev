@@ -68,17 +68,15 @@ Git, Excalidraw (esquisse de la maquette), Figma (wireframe), VSCode, GitHub, Ph
 </div>
 
 <br>
-<div style="background-color: #77468f; color: #ffffff; padding: 20px; border-radius: 15px; text-align: center;">
-    <strong>A VENIR -- Site Restaurant, le Baratie</strong>
-</div>
 
 <br>
 <strong><em><center>Cette expérience de création de site web a renforcé mes compétences tout en démontrant ma capacité à concevoir des interfaces attractives et fonctionnelles, une étape importante dans mon parcours de développement web.</em></strong><br>
 <br>
 <br>
-<img src="/assets/P1_Screen2.jpg" width="200" height="100" style="vertical-align: middle; margin-right: 10px;">
-<img src="/assets/P1_Screen1.jpg" width="300" height="100" style="vertical-align: middle; margin-right: 10px;">
-<img src="/assets/P1_Screen3.jpg" width="300" height="100" ><br>
+<video width="320" height="240" controls>
+  <source src="/assets/Projet_Baratie.mp4" type="video/mp4">
+Votre navigateur ne prend pas en charge la vidéo.
+</video><br>
 <br>
 
 <style>
@@ -95,13 +93,17 @@ Git, Excalidraw (esquisse de la maquette), Figma (wireframe), VSCode, GitHub, Ph
     }
 
     .maquette-div a {
-    color: inherit;
+    /*color: inherit;*/
+    text-decoration: none;
+    }
+
+    .maquette-div a:hover {
     text-decoration: none;
     }
 
     .maquette-div:hover {
         background-color: #ffffff;
-        color: rgba(253,152,239,0.35);
+        color: rgb(253,152,239);
         text-decoration: none;
     }
 </style>

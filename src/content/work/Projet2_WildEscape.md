@@ -78,7 +78,7 @@ Git, Excalidraw (esquisse de la maquette), Figma (wireframe), VSCode, GitHub, Tr
 <br>
 - J'ai pu mettre en avant mes compétences acquises et en développer des nouvelles :
 
-- Conception d'un scénario immerssif : dans lequel l'utilisateur peut naviguer de manière fluide, 
+- Conception d'un scénario immerssif : dans lequel l'utilisateur peut naviguer de manière fluide,
 - Système de résolution d'énigmes : renforçant l'aspect interactif du jeu,
 - Système d'indices : permettant de guider le joueur, 
 - Limiteur de temps : ajoutant une pression stimulante et renforçant l'immersion,
@@ -89,11 +89,11 @@ Git, Excalidraw (esquisse de la maquette), Figma (wireframe), VSCode, GitHub, Tr
 <br>
 <strong>#<u>Les compétences développées et approfondies</u></strong><br>
 <br>
-- Utilisation des technologies de base du développement web : HTML et CSS.
-- Utilisation de différents langages : PHP, JavaScript, SQL.
-- Utilisation d'outils de conception pour la création de designs visuels.
-- Expertise du développement collaboratif, gestion de projet collaboratif (avec Git et GitHub).
-- Gestion de projet collaboratif, adaptabilité continue et communication transparente,
+- Utilisation des technologies de base du développement web : HTML et CSS.<br>
+- Utilisation de différents langages : PHP, JavaScript, SQL.<br>
+- Utilisation d'outils de conception pour la création de designs visuels.<br>
+- Expertise du développement collaboratif, gestion de projet collaboratif (avec Git et GitHub).<br>
+- Gestion de projet collaboratif, adaptabilité continue et communication transparente,<br>
 - Prendre en compte et répondre à la demande du client, ses attentes et ses envies, et s'adapter.
   <br>
   <br>
@@ -121,6 +121,7 @@ Git, Excalidraw (esquisse de la maquette), Figma (wireframe), VSCode, GitHub, Tr
 <strong><em><center>Grâce à ce projet j'ai consolidé ma capacité à collaborer et à m'adapter au sein d'une équipe. Cette expérience m'a permis de perfectionner mes compétences en développement web et en conception de bases de données, tout en intégrant des fonctionnalités novatrices, et m'a inspiré pour des améliorations futures telles qu'une interface utilisateur enrichie et une expérience sonore évolutive.</em></strong><br>
 <br>
 <br>
-<img src="/assets/P2_Screen2.png" width="300" height="200" style="vertical-align: middle; margin-right: 10px; margin-bottom: 10px; border-radius: 10px;">
-<img src="/assets/P2_Screen1.png" width="300" height="100" style="vertical-align: middle; margin-right: 10px; border-radius: 10px;">
-<img src="/assets/P2_Screen3.png" width="300" height="100" style="border-radius: 10px;"><br>
+<video width="320" height="240" controls>
+  <source src="/assets/Projet_WildEscape.mp4" type="video/mp4">
+Votre navigateur ne prend pas en charge la vidéo.
+</video><br>
