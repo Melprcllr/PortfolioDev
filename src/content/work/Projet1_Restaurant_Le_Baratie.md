@@ -51,7 +51,7 @@ Git, Excalidraw (esquisse de la maquette), Figma (wireframe), VSCode, GitHub, Ph
 <br>
 
 <br>
-<strong>#<u>Points d'amélioration</u></strong>
+<strong>#<u>Les axes d'amélioration</u></strong>
 
 - Harmoniser l'ensemble du design visuel du site,
 -  Améliorer la lisibilité du texte, les contrastes des couleurs...

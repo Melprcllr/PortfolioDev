@@ -85,7 +85,7 @@ Docker, MySQL, Figma, VSCode, Git, GitHub, Trello, Photoshop.<br>
 - Découverte et utilisation de Docker,
 - Permettre la communication avec les données récupérées (JSON) et affichage dynamique.
 
-  <br><strong>#<u>Points d'amélioration</u></strong>
+  <br><strong>#<u>Les axes d'amélioration</u></strong>
 <br>
 - Rendre le site responsive et avoir une version Desktop,
 - Continuer d'enrichir la BDD avec d'autres "magasins partenaires" et les mettre en avant,
@@ -100,9 +100,6 @@ Docker, MySQL, Figma, VSCode, Git, GitHub, Trello, Photoshop.<br>
 </div>
 
 <br>
-<div style="background-color: #77468f; color: #ffffff; padding: 20px; border-radius: 15px; text-align: center;">
-    <strong>Site -- A VENIR --  </strong>
-</div>
 <br>
-<strong><em><center>Le hackathon m'a offert l'opportunité de collaborer étroitement avec une équipe multidisciplinaire dans le cadre d'une course contre la montre de moins de 48 heures. Cela a permis non seulement de développer le projet d'une application web de A à Z, mais aussi de fusionner nos compétences variées, d'appréhender rapidement de nouvelles idées et de concrétiser une vision collective en un projet fonctionnel, renforçant ainsi ma capacité à travailler de manière agile et collaborative dans des délais serrés.</em></strong><br>
+<strong><em><center>Ecrire conclusion</em></strong><br>
 <br>

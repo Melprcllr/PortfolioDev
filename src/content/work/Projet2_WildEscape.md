@@ -97,7 +97,7 @@ Git, Excalidraw (esquisse de la maquette), Figma (wireframe), VSCode, GitHub, Tr
 - Prendre en compte et répondre à la demande du client, ses attentes et ses envies, et s'adapter.
   <br>
   <br>
-  <br><strong>#<u>Points d'amélioration</u></strong>
+  <br><strong>#<u>Les axes d'amélioration</u></strong>
 
 - Mettre en place une interface utilisateur pour permettre la création de nouveaux scénarios,
 -  Améliorer la lisibilité du texte, les contrastes des couleurs...

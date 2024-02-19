@@ -10,6 +10,8 @@ tags:
   - Symfony (PHP)
   - HTML
   - CSS
+  - SQL
+  - Javascript
 ---
 
 
@@ -52,7 +54,7 @@ Git, GitHub, Figma (wireframe), PhpStorm, Photoshop.
 <br>
 
 <br>
-<strong>#<u>Points d'amélioration</u></strong>
+<strong>#<u>Les axes d'amélioration</u></strong>
 
 - Gestion administrateur à la création d'une nouvelle entreprise (demande d'approbation par Externatic)
 - Intgérer un système de notifications, et de messagerie
