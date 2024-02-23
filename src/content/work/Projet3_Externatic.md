@@ -66,7 +66,7 @@ Git, GitHub, Figma (wireframe), PhpStorm, Photoshop.
 <br>
 <br>
 <div style="background-color: #77468f; color: #ffffff; padding: 20px; border-radius: 15px; text-align: center;">
-    <strong><a href="https://github.com/yoyodes1000/Projet-Resto-Baratie" target="_blank" rel="noopener noreferrer" style="color: #ffffff; text-decoration: none;">GitHub du projet</a></strong>
+    <strong><a href="https://github.com/WildCodeSchool-2023-09/bdx-php-p3-externatic" target="_blank" rel="noopener noreferrer" style="color: #ffffff; text-decoration: none;">GitHub du projet</a></strong>
 </div>
 
 <br>
