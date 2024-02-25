@@ -15,7 +15,7 @@ tags:
 
 <<ustrong>#>Les objectifs</u></strong>
 
-- <strong>Création de plusieurs pages web</strong> (une page d'accueil, un page de présentation du restaurant, "la carte", une page contact et un plan d'accès),
+- <strong>Création de plusieurs pages web</strong> (une page d'accueil, une page de présentation du restaurant, "la carte", une page contact et un plan d'accès),
 - <strong>Conception d'un wireframe</strong> (définir une charte graphique),
 - <strong>Travailler en équipe</strong> (5 membres) : organiser le travail et répartir les différentes tâches
 - <strong>Travailler avec Git et GitHub</strong> : résoudre les conflits, travail en commun sur un seul repository,
